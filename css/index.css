@@ -57,5 +57,5 @@ a::before{
 
 a:hover{
     background-color: #F25A70;
-    text-decoration-color: #1B4658;
+    transform: color #1B4658;
 }
