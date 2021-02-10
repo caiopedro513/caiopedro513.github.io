@@ -18,7 +18,7 @@ nav{
     
 }
 
-a, .button-1{
+a{
     display: inline-flex;
     color:  rgb(255,255,255);
     font-size: 20px;
@@ -37,7 +37,7 @@ a::before{
     margin-right: 10px;
 }
 
-.button-2, #download-1{
+#button{
     display: inline-block;
     background-color: #1B4658;
     padding: 18px 20px;
@@ -49,7 +49,7 @@ a::before{
     transition: transform 90ms linear;
 }
 
-.button-2:hover, #download-1:hover{
+#button:hover{
     background-color: #F25A70;
     box-shadow: 5px 5px 0 #1B4658;
     transform: scale(1.04)
