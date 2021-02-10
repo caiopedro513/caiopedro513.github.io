@@ -29,7 +29,7 @@ a{
     margin-right: 30px;
 }
 
-a::before{
+#com-quadrado::before{
     content: "";
     width: 10px;
     height:10px;
@@ -94,7 +94,17 @@ h1{
 }
 
 .button-2{
+    background-color: #1B4658;
+    box-shadow: 5px 5px 0 #F25A70;
     margin-bottom: 399px;
     margin-top: 38px;
     margin-right: 807px;
+    text-align: center;
 }
+
+.button-2:hover{
+    background-color: #F25A70;
+    box-shadow: 5px 5px 0 #1B4658;
+    transform: scale(1.04)
+}
+
