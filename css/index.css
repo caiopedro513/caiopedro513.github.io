@@ -69,11 +69,12 @@ h1{
     left: 91px;
     line-height: 85px;
     color: #F25A70;
-    text-align: center;
     margin-top: 116px;
     margin-left: 91px;
     margin-right: 722px;
     margin-bottom: 497px;
+    text-align: center;
+    box-shadow:5px 5px 0 #000;
 }
 
 #contatos-1{
@@ -99,7 +100,6 @@ h1{
     margin-bottom: 399px;
     margin-top: 38px;
     margin-right: 807px;
-    text-align: center;
 }
 
 .button-2:hover{
@@ -107,4 +107,3 @@ h1{
     box-shadow: 5px 5px 0 #1B4658;
     transform: scale(1.04)
 }
-
