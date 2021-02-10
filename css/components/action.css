@@ -1,0 +1,22 @@
+a{
+    display: inline-flex;
+    color: inherit;
+    font-size: 20px;
+    font-weight: 500;
+    text-decoration: none;
+    align-items: center;
+    margin-right: 30px;
+}
+
+a::before{
+    content: "";
+    width: 10px;
+    height:10px;
+    background-color: #1B4658;
+    margin-right: 10px;
+}
+
+a:hover{
+    background-color: #F25A70;
+    color: #1B4658;
+}
