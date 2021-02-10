@@ -18,7 +18,7 @@ nav{
     
 }
 
-a{
+a, .button-1{
     display: inline-flex;
     color:  rgb(255,255,255);
     font-size: 20px;
@@ -37,7 +37,7 @@ a::before{
     margin-right: 10px;
 }
 
-#button{
+.button-2, #download-1{
     display: inline-block;
     background-color: #1B4658;
     padding: 18px 20px;
@@ -49,13 +49,13 @@ a::before{
     transition: transform 90ms linear;
 }
 
-#button:hover{
+.button-2:hover, #download-1:hover{
     background-color: #F25A70;
     box-shadow: 5px 5px 0 #1B4658;
     transform: scale(1.04)
 }
 
-a:hover{
+a:hover, .button-1:hover{
     background-color: #F25A70;
     color: #1B4658;
 }
@@ -74,4 +74,27 @@ h1{
     margin-left: 91px;
     margin-right: 722px;
     margin-bottom: 497px;
+}
+
+#contatos-2{
+    height: 60px;
+    width: 170px;
+    left: 181px;
+    top: 418px;
+    margin-right: 112px;
+    position: absolute;
+}
+
+#download-2{
+    position: absolute;
+    width: 170px;
+    height: 60px;
+    left: 463px;
+    top: 418px;
+}
+
+.button-2{
+    margin-bottom: 399px;
+    margin-top: 38px;
+    margin-right: 807px;
 }
