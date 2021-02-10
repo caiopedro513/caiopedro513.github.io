@@ -59,3 +59,19 @@ a:hover{
     background-color: #F25A70;
     color: #1B4658;
 }
+
+h1{
+    display: inline-block;
+    background-color: #1B4658;
+    width: 672px;
+    height: 184px;
+    top: 196px;
+    left: 91px;
+    line-height: 85px;
+    color: #F25A70;
+    text-align: center;
+    margin-top: 116px;
+    margin-left: 91px;
+    margin-right: 722px;
+    margin-bottom: 497px;
+}
