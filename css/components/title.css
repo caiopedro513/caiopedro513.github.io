@@ -3,4 +3,11 @@
     font-style: normal;
     font-weight: normal;
     font-size: 35px;
+    text-shadow: 4px 0 #000;
+    text-align: center;
+}
+
+.title.-second{
+    color: #F25A70;
+    text-shadow: none;
 }
