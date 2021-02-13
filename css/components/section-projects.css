@@ -1,20 +1,18 @@
-.section-projects{
+.section-projects{ 
     border-bottom: 10px solid #F25A70;
 }
 
 .section-projects .wrapper-projects{
     display: flex;
-    margin-left: 140px;
-    margin-right: 150px;
     margin-bottom: 100px;
     margin-top: 50px;
+    justify-content: center;
 }
 
 .section-projects .wrapper-projects .button.-projects{
     background-image: url(../../assets/img/Logo\ my\ portfolio.jpg);
     width: 280px;
     height: 280px;
-    margin-left: 370px;
 }
 
 .section-projects .title.-third{
