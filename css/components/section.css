@@ -8,3 +8,9 @@
 .section .title {
     margin-bottom: 80px;
 }
+
+.section-projects{
+    max-width: 1440px;
+    height: 530px;
+    background-color: #000;
+}
