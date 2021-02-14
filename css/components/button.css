@@ -9,6 +9,7 @@
     transition: background-color 0s;
     transition: transform 90ms linear;
     font-size: 20px;
+    text-decoration: none;
 }
 
 .button:hover{
