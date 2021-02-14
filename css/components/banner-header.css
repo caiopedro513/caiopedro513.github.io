@@ -1,4 +1,4 @@
-.banner{
+.banner-header{
     box-sizing: border-box;
     background-color: #589B9F;
     background-size: 100%;
@@ -8,7 +8,7 @@
     padding-top: 50px;
 }
 
-.banner .wrapper{
+.banner-header .wrapper{
     display: flex;
     flex-direction: column;
     width: 930px;
@@ -16,7 +16,7 @@
 }
 
 
-.banner .navigation{
+.banner-header .navigation{
     display: flex;
     justify-content: space-around;
 

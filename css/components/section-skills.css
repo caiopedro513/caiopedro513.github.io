@@ -1,11 +1,11 @@
-.section{
+.section-skills{
     background-color: #1B4658;
     padding-top: 50px;
     padding-bottom: 100px;
     border-bottom: 10px solid #A4DCF4;
 }
 
-.section .title {
+.section-skills .title {
     margin-bottom: 80px;
 }
 
