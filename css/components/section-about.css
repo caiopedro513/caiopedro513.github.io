@@ -1,0 +1,24 @@
+.section-about{
+    display: flex;
+    background-color: #1B4658;
+    max-width: 1440px;
+    height: 783px;
+}
+
+.section-about .text-about-me{
+    position: absolute;
+    margin-top: 331px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+.section-about .about-title{
+    margin-bottom: 703px;
+    margin-top: 50px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.section-about .text-about-me .about-text .link-github{
+    color: #A4DCF4;
+}
